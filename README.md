@@ -2,11 +2,12 @@
 
 Confidential code. See ISCB-UK, University Of Cambridge, 2026 talk submission - https://www.iscb.org/uk2026/scientific-programme/talks
 
-Exploring Feature Representations for Cancer-AssociatedsORF Prediction in Non-coding RNA
+Exploring Feature Representations for Cancer-Associated sORF Prediction in Non-coding RNA
+
 Confirmed Presenter: Fabiana Rodrigues de Goes, Rosalind Franklin Institute, United Kingdom
 
 
-Authors List: Hide
+Authors List:
 
 Fabiana Rodrigues de Goes, Rosalind Franklin Institute, United Kingdom
 Makanaka Mazheke, University College London, United Kingdom
