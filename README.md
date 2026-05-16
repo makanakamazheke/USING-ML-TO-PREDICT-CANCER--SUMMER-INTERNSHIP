@@ -1,6 +1,8 @@
 # USING-ML-TO-PREDICT-CANCER--SUMMER-INTERNSHIP
 
-Confidential code. See ISCB-UK, University Of Cambridge, 2026 talk submission - https://www.iscb.org/uk2026/scientific-programme/talks
+Confidential code. Part of my summer internship with the Rosalind Franklin Institute 2025, in the AI department. 
+
+See our submission to ISCB-UK, University Of Cambridge, 2026 - https://www.iscb.org/uk2026/scientific-programme/talks
 
 Exploring Feature Representations for Cancer-Associated sORF Prediction in Non-coding RNA
 
